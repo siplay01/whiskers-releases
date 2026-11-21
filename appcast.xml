@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Local Voice</title>
+        <title>Whiskers</title>
         <item>
             <title>0.4.2</title>
             <pubDate>Wed, 18 Nov 2026 08:16:26 -0800</pubDate>
-            <link>https://github.com/siplay01/local-voice-releases</link>
+            <link>https://github.com/siplay01/whiskers-releases</link>
             <sparkle:version>0.4.2</sparkle:version>
             <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<h2>Whiskers 0.4.2</h2><p>Simpler menu: the More submenu is gone. Show or hide the floating dot in Settings > General. Open at login, update checks and Setup were already in Settings.</p>
 ]]></description>
-            <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/LocalVoice-0.4.2.zip" length="212163078" type="application/octet-stream" sparkle:edSignature="iFrnAebvYQniiNeIygkXhQTedqArhfvPO9dLKrbXj5EhwO8UKns2PuGYo8xfHt0cHXAbO3hX0AYwSapu1hN8Dg=="/>
+            <enclosure url="https://github.com/siplay01/whiskers-releases/releases/download/updates/Whiskers-0.4.2.zip" length="212163078" type="application/octet-stream" sparkle:edSignature="iFrnAebvYQniiNeIygkXhQTedqArhfvPO9dLKrbXj5EhwO8UKns2PuGYo8xfHt0cHXAbO3hX0AYwSapu1hN8Dg=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/Whiskers0.4.2-0.4.1.delta" sparkle:deltaFrom="0.4.1" length="180934" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="btzEHtttxdGF2xFu0gS3PdHoZKlBxSBJQhv54qEJQyBb8xNqR529LQBffxLDmX1GAeqmnHYk8Z3ZRaKu9BLIDA=="/>
-                <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/Whiskers0.4.2-0.4.0.delta" sparkle:deltaFrom="0.4.0" length="198634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RV7UAwuetGueeckN0PUWpss2HZCyr5etMbue9rG+a0WmQmIwsPjSJDlHJ8y8UiI4YTA8aSDhV6e9B41R0xWuDQ=="/>
-                <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/Whiskers0.4.2-0.3.2.delta" sparkle:deltaFrom="0.3.2" length="8293954" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UTzOkGalv+M/Zbj9yKfXjZ1Wl/peW1r8Yy4QIenqMv/Qe3B0dm7rE+7wC5lCwL6XymeMV+APrC1WTAQ1WhNYAg=="/>
+                <enclosure url="https://github.com/siplay01/whiskers-releases/releases/download/updates/Whiskers0.4.2-0.4.1.delta" sparkle:deltaFrom="0.4.1" length="180934" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="btzEHtttxdGF2xFu0gS3PdHoZKlBxSBJQhv54qEJQyBb8xNqR529LQBffxLDmX1GAeqmnHYk8Z3ZRaKu9BLIDA=="/>
+                <enclosure url="https://github.com/siplay01/whiskers-releases/releases/download/updates/Whiskers0.4.2-0.4.0.delta" sparkle:deltaFrom="0.4.0" length="198634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RV7UAwuetGueeckN0PUWpss2HZCyr5etMbue9rG+a0WmQmIwsPjSJDlHJ8y8UiI4YTA8aSDhV6e9B41R0xWuDQ=="/>
+                <enclosure url="https://github.com/siplay01/whiskers-releases/releases/download/updates/Whiskers0.4.2-0.3.2.delta" sparkle:deltaFrom="0.3.2" length="8293954" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UTzOkGalv+M/Zbj9yKfXjZ1Wl/peW1r8Yy4QIenqMv/Qe3B0dm7rE+7wC5lCwL6XymeMV+APrC1WTAQ1WhNYAg=="/>
             </sparkle:deltas>
         </item>
         <item>
             <title>0.4.1</title>
             <pubDate>Wed, 18 Nov 2026 07:51:20 -0800</pubDate>
-            <link>https://github.com/siplay01/local-voice-releases</link>
+            <link>https://github.com/siplay01/whiskers-releases</link>
             <sparkle:version>0.4.1</sparkle:version>
             <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<h2>Whiskers 0.4.1</h2><p>Simpler dictation: the Record menu item is gone. Hold the key for one phrase, or double-tap it for hands-free Listening. Listening now waits 1.5 seconds of silence before it pastes, so a short pause to think no longer splits a sentence. You can still change the pause in Settings.</p>
 ]]></description>
-            <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/LocalVoice-0.4.1.zip" length="212162676" type="application/octet-stream" sparkle:edSignature="XD2t5zzUBALap73sytcIGCPtfKSBeHH+6rZ3ER6QMNPPYso1hKoqL6a+1X32aeIIfVeMeOduInOL5TOLedtTDA=="/>
+            <enclosure url="https://github.com/siplay01/whiskers-releases/releases/download/updates/Whiskers-0.4.1.zip" length="212162676" type="application/octet-stream" sparkle:edSignature="XD2t5zzUBALap73sytcIGCPtfKSBeHH+6rZ3ER6QMNPPYso1hKoqL6a+1X32aeIIfVeMeOduInOL5TOLedtTDA=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/Whiskers0.4.1-0.4.0.delta" sparkle:deltaFrom="0.4.0" length="186358" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TJDMuyx4cezBjorvatoGFO+rcqj0Qga17q9C+UWBxN/zOxHf2Q59PQMlLRlexYiCfSmBFt+99Z2AyAp2iyzwCw=="/>
-                <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/Whiskers0.4.1-0.3.2.delta" sparkle:deltaFrom="0.3.2" length="8289282" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HG+QhSgMCWfnZFSOnKa8v7XD41q+HHXWw3BAs4YQLyQ77uSwwr5toXWaqWsTPq312jmUIWTkWLTxHxv3OWcGBw=="/>
-                <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/Whiskers0.4.1-0.3.1.delta" sparkle:deltaFrom="0.3.1" length="8381258" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="d7r1QcxqkEj8Cp/HAjk1W3JoeZMrq+wSyCqWOvwyfnE+JdeCFB4vpmwNqQsRYljmTv7o22FGPEvcyfIJNVVMBw=="/>
+                <enclosure url="https://github.com/siplay01/whiskers-releases/releases/download/updates/Whiskers0.4.1-0.4.0.delta" sparkle:deltaFrom="0.4.0" length="186358" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TJDMuyx4cezBjorvatoGFO+rcqj0Qga17q9C+UWBxN/zOxHf2Q59PQMlLRlexYiCfSmBFt+99Z2AyAp2iyzwCw=="/>
+                <enclosure url="https://github.com/siplay01/whiskers-releases/releases/download/updates/Whiskers0.4.1-0.3.2.delta" sparkle:deltaFrom="0.3.2" length="8289282" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HG+QhSgMCWfnZFSOnKa8v7XD41q+HHXWw3BAs4YQLyQ77uSwwr5toXWaqWsTPq312jmUIWTkWLTxHxv3OWcGBw=="/>
+                <enclosure url="https://github.com/siplay01/whiskers-releases/releases/download/updates/Whiskers0.4.1-0.3.1.delta" sparkle:deltaFrom="0.3.1" length="8381258" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="d7r1QcxqkEj8Cp/HAjk1W3JoeZMrq+wSyCqWOvwyfnE+JdeCFB4vpmwNqQsRYljmTv7o22FGPEvcyfIJNVVMBw=="/>
             </sparkle:deltas>
         </item>
         <item>
             <title>0.4.0</title>
             <pubDate>Tue, 17 Nov 2026 22:10:59 -0800</pubDate>
-            <link>https://github.com/siplay01/local-voice-releases</link>
+            <link>https://github.com/siplay01/whiskers-releases</link>
             <sparkle:version>0.4.0</sparkle:version>
             <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<h2>Whiskers 0.4.0</h2><p>Transcribe File now makes a report next to the file: who spoke and for how long, words, pace, longest turns and filler words, plus a transcript and subtitles labeled by speaker. It finds any number of speakers and shows each one's voice pitch. OBS recordings (mkv) with separate microphone and computer-sound tracks label you exactly and level a quiet microphone (needs ffmpeg). Also new since 0.3.2: text appears while you still hold the key, better Russian and English detection, a personal dictionary, a simpler menu and an install guide. The app is now called Whiskers.</p>
 ]]></description>
-            <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/LocalVoice-0.4.0.zip" length="212163304" type="application/octet-stream" sparkle:edSignature="KbXWMVi7UPKiFMumNxvuB3ludkCsiyf5kslw67xtKmimN4r47V/ylFC51Z2zlgzStndO9UAHyy6fVqfsbHZDCA=="/>
+            <enclosure url="https://github.com/siplay01/whiskers-releases/releases/download/updates/Whiskers-0.4.0.zip" length="212163304" type="application/octet-stream" sparkle:edSignature="KbXWMVi7UPKiFMumNxvuB3ludkCsiyf5kslw67xtKmimN4r47V/ylFC51Z2zlgzStndO9UAHyy6fVqfsbHZDCA=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/Whiskers0.4.0-0.3.2.delta" sparkle:deltaFrom="0.3.2" length="8285498" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+aMCDLpwkCxwri4zVyet059iY6gZiJ+NxisaHq4q5ykqLiMeJuLPFwbi9Y2RP3HSVHha4e5jj8gmU5HFerhEBA=="/>
-                <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/Whiskers0.4.0-0.3.1.delta" sparkle:deltaFrom="0.3.1" length="8380742" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="d95KCAHx9HA1ZaH7hugoEC9Olc2odgIetsPemhAc1EQtVgaODxtGuzrF2ZmG8J2zLJU0PUhYr6iwU230sy2WDw=="/>
-                <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/Whiskers0.4.0-0.3.0.delta" sparkle:deltaFrom="0.3.0" length="8379314" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="abrZJTwfuZc690XZMb9zz+4iPD0fve3lTr5/9/GUG5JvxZI0Y4bjmzXy/3p1oOQkPupdfr9ffLQSG1w84AdNCQ=="/>
+                <enclosure url="https://github.com/siplay01/whiskers-releases/releases/download/updates/Whiskers0.4.0-0.3.2.delta" sparkle:deltaFrom="0.3.2" length="8285498" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+aMCDLpwkCxwri4zVyet059iY6gZiJ+NxisaHq4q5ykqLiMeJuLPFwbi9Y2RP3HSVHha4e5jj8gmU5HFerhEBA=="/>
+                <enclosure url="https://github.com/siplay01/whiskers-releases/releases/download/updates/Whiskers0.4.0-0.3.1.delta" sparkle:deltaFrom="0.3.1" length="8380742" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="d95KCAHx9HA1ZaH7hugoEC9Olc2odgIetsPemhAc1EQtVgaODxtGuzrF2ZmG8J2zLJU0PUhYr6iwU230sy2WDw=="/>
+                <enclosure url="https://github.com/siplay01/whiskers-releases/releases/download/updates/Whiskers0.4.0-0.3.0.delta" sparkle:deltaFrom="0.3.0" length="8379314" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="abrZJTwfuZc690XZMb9zz+4iPD0fve3lTr5/9/GUG5JvxZI0Y4bjmzXy/3p1oOQkPupdfr9ffLQSG1w84AdNCQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
