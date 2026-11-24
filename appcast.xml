@@ -3,6 +3,23 @@
     <channel>
         <title>Whiskers</title>
         <item>
+            <title>0.4.3</title>
+            <pubDate>Mon, 23 Nov 2026 17:06:16 -0800</pubDate>
+            <link>https://github.com/siplay01/whiskers-releases</link>
+            <sparkle:version>0.4.3</sparkle:version>
+            <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Whiskers 0.4.3</h2><p>New app icon: a microphone with whiskers.<br><br>Record a meeting: Start Meeting Recording before a call (Slack, Zoom, Meet). Whiskers records your mic and the Mac's sound as two tracks, and when you stop, writes a report with who spoke, labeled You and Other 1, Other 2. The first time, macOS asks for Screen & System Audio Recording permission.<br><br>More reliable dictation:<br>- A recording is no longer lost. If nothing was recognized or transcription failed, the recording stays in History with Re-transcribe.<br>- Plugging in or removing headphones while you hold the key no longer stops the recording.<br>- In a password field, Whiskers does not paste. It copies the text and tells you why.<br>- If the text did not land in a text field, Whiskers says so and leaves it on the clipboard.<br>- Clipboard managers no longer keep your dictations, and your previous clipboard comes back after 1.5 seconds, so slow apps paste the right text.<br>- History shows the original text next to the cleaned one.<br>- Speech models are pinned to a fixed version and checked after download.<br><br>The app's internal name changed, so macOS asks once more for Accessibility and Microphone access.</p>
+]]></description>
+            <enclosure url="https://github.com/siplay01/whiskers-releases/releases/download/updates/Whiskers-0.4.3.zip" length="213208218" type="application/octet-stream" sparkle:edSignature="9FiBcJzcHe2Nm3sMiuhnHHxbNbHMyUFZLsVgzd1gOU7MwurQTF/Di4GRRs1w5vIUEPQdeBhZvLBURhFs8K9tCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/siplay01/whiskers-releases/releases/download/updates/Whiskers0.4.3-0.4.2.delta" sparkle:deltaFrom="0.4.2" length="1989534" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7t/ksaGLuQQm0Ko45+J3vCKOdvXayNoW0c0kO35vvoxhsVZ4WtIGnx9F0ujqEyYGl+HqhbVGpEd/dJBD2CZ6Aw=="/>
+                <enclosure url="https://github.com/siplay01/whiskers-releases/releases/download/updates/Whiskers0.4.3-0.4.1.delta" sparkle:deltaFrom="0.4.1" length="1988398" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rbLoy7+f271b5yhaxwJOC84JARiUnC56nLTZH+NCi1XBJ7RYtX1473hzEQFqNcTvv/smgRdrxmeayywJq9ZsDA=="/>
+                <enclosure url="https://github.com/siplay01/whiskers-releases/releases/download/updates/Whiskers0.4.3-0.4.0.delta" sparkle:deltaFrom="0.4.0" length="1989158" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MQ+fG4mVJIOIxKrilwQ9xo+j2A456wd2D3xWEyHdNmKGZcQKrQYC+5SUj6voq97zjx2E5LwksvlYeEpxqorfBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.4.2</title>
             <pubDate>Wed, 18 Nov 2026 08:16:26 -0800</pubDate>
             <link>https://github.com/siplay01/whiskers-releases</link>
@@ -34,23 +51,6 @@
                 <enclosure url="https://github.com/siplay01/whiskers-releases/releases/download/updates/Whiskers0.4.1-0.4.0.delta" sparkle:deltaFrom="0.4.0" length="186358" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TJDMuyx4cezBjorvatoGFO+rcqj0Qga17q9C+UWBxN/zOxHf2Q59PQMlLRlexYiCfSmBFt+99Z2AyAp2iyzwCw=="/>
                 <enclosure url="https://github.com/siplay01/whiskers-releases/releases/download/updates/Whiskers0.4.1-0.3.2.delta" sparkle:deltaFrom="0.3.2" length="8289282" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HG+QhSgMCWfnZFSOnKa8v7XD41q+HHXWw3BAs4YQLyQ77uSwwr5toXWaqWsTPq312jmUIWTkWLTxHxv3OWcGBw=="/>
                 <enclosure url="https://github.com/siplay01/whiskers-releases/releases/download/updates/Whiskers0.4.1-0.3.1.delta" sparkle:deltaFrom="0.3.1" length="8381258" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="d7r1QcxqkEj8Cp/HAjk1W3JoeZMrq+wSyCqWOvwyfnE+JdeCFB4vpmwNqQsRYljmTv7o22FGPEvcyfIJNVVMBw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.4.0</title>
-            <pubDate>Tue, 17 Nov 2026 22:10:59 -0800</pubDate>
-            <link>https://github.com/siplay01/whiskers-releases</link>
-            <sparkle:version>0.4.0</sparkle:version>
-            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Whiskers 0.4.0</h2><p>Transcribe File now makes a report next to the file: who spoke and for how long, words, pace, longest turns and filler words, plus a transcript and subtitles labeled by speaker. It finds any number of speakers and shows each one's voice pitch. OBS recordings (mkv) with separate microphone and computer-sound tracks label you exactly and level a quiet microphone (needs ffmpeg). Also new since 0.3.2: text appears while you still hold the key, better Russian and English detection, a personal dictionary, a simpler menu and an install guide. The app is now called Whiskers.</p>
-]]></description>
-            <enclosure url="https://github.com/siplay01/whiskers-releases/releases/download/updates/Whiskers-0.4.0.zip" length="212163304" type="application/octet-stream" sparkle:edSignature="KbXWMVi7UPKiFMumNxvuB3ludkCsiyf5kslw67xtKmimN4r47V/ylFC51Z2zlgzStndO9UAHyy6fVqfsbHZDCA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/siplay01/whiskers-releases/releases/download/updates/Whiskers0.4.0-0.3.2.delta" sparkle:deltaFrom="0.3.2" length="8285498" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+aMCDLpwkCxwri4zVyet059iY6gZiJ+NxisaHq4q5ykqLiMeJuLPFwbi9Y2RP3HSVHha4e5jj8gmU5HFerhEBA=="/>
-                <enclosure url="https://github.com/siplay01/whiskers-releases/releases/download/updates/Whiskers0.4.0-0.3.1.delta" sparkle:deltaFrom="0.3.1" length="8380742" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="d95KCAHx9HA1ZaH7hugoEC9Olc2odgIetsPemhAc1EQtVgaODxtGuzrF2ZmG8J2zLJU0PUhYr6iwU230sy2WDw=="/>
-                <enclosure url="https://github.com/siplay01/whiskers-releases/releases/download/updates/Whiskers0.4.0-0.3.0.delta" sparkle:deltaFrom="0.3.0" length="8379314" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="abrZJTwfuZc690XZMb9zz+4iPD0fve3lTr5/9/GUG5JvxZI0Y4bjmzXy/3p1oOQkPupdfr9ffLQSG1w84AdNCQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
